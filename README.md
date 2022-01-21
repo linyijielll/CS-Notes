@@ -1,2 +1,12 @@
 # ML-Tutorial
-为了不拖然哥后腿 我就浅学一下吧
+
+
+## 机器学习shuhuai007
+reference: [Machine-Learning-Session](https://github.com/shuhuai007/Machine-Learning-Session)
+
+## 机器学习笔记
+CityU CS5487 Machine Learning
+
+## 模型笔记
+1. BART
+2. Bert
