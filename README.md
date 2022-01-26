@@ -1,4 +1,7 @@
 # ML-Tutorial
+## 实战项目传送门
+基于GPT2的英文聊天机器人**Chatbot-Pytorch** [code repository](https://github.com/chenjunyi1999/ChatBot-Pytorch) 
+
 ## 动手学深度学习Pytorch版本 [查看](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/d2l(Pytorch))
 参考: <br>
 [1] [d2l中文官网](https://zh-v2.d2l.ai/index.html)<br>
@@ -27,5 +30,3 @@ CityU CS5487 Machine Learning
 
 ## WangShuseng NLP笔记[查看](https://github.com/chenjunyi1999/ML-Tutorial/blob/main/Wang%20Shusen%20NLP%E6%95%99%E5%AD%A6%EF%BC%88keras%EF%BC%89.pdf)
 
-## 实战项目
-基于GPT2的英文聊天机器人**Chatbot-Pytorch** [code repository](https://github.com/chenjunyi1999/ChatBot-Pytorch) 
