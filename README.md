@@ -25,8 +25,10 @@
 CityU CS5487 Machine Learning
 
 ## 模型笔记 [查看](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/%E6%A8%A1%E5%9E%8B%E7%AC%94%E8%AE%B0)
+**我很用心的在画画！！！！！**
 1. BART
 2. Bert
+3. GPT
 
 ## WangShuseng NLP笔记[查看](https://github.com/chenjunyi1999/ML-Tutorial/blob/main/Wang%20Shusen%20NLP%E6%95%99%E5%AD%A6%EF%BC%88keras%EF%BC%89.pdf)
 
