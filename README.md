@@ -29,6 +29,7 @@ CityU CS5487 Machine Learning
 1. BART
 2. Bert
 3. GPT
+4. HMM
 
 ## WangShuseng NLP笔记[查看](https://github.com/chenjunyi1999/ML-Tutorial/blob/main/Wang%20Shusen%20NLP%E6%95%99%E5%AD%A6%EF%BC%88keras%EF%BC%89.pdf)
 
