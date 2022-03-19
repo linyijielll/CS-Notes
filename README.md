@@ -4,6 +4,8 @@
 
 基于Transformer的英译中翻译程序**EN2CN-Transformer** [code repository](https://github.com/chenjunyi1999/EN2CN-Transformer) ｜ [learning notes](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/EN2CN%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0)
 
+Kaggle竞赛 **“Feedback Prize - Evaluating Student Writing” 实战** [TBD](https://github.com/chenjunyi1999/Kaggle_Feedback_Prize)| [然哥还没教会我呢😳](https://github.com/chenjunyi1999/Kaggle_Feedback_Prize)
+
 ## 动手学深度学习Pytorch版本 [查看](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/d2l(Pytorch))
 参考: <br>
 [1] [d2l中文官网](https://zh-v2.d2l.ai/index.html)<br>
