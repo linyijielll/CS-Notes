@@ -36,4 +36,4 @@ CityU CS5487 Machine Learning
 ## WangShuseng NLP笔记[查看](https://github.com/chenjunyi1999/ML-Tutorial/blob/main/Wang%20Shusen%20NLP%E6%95%99%E5%AD%A6%EF%BC%88keras%EF%BC%89.pdf)
 
 ## 我都不好意思提
-Kaggle竞赛 **“Feedback Prize - Evaluating Student Writing” 实战** [code repository](https://github.com/chenjunyi1999/Kaggle_Feedback_Prize)| [然哥还没教会我呢😳](https://github.com/chenjunyi1999/Kaggle_Feedback_Prize)
+Kaggle竞赛 **“Feedback Prize - Evaluating Student Writing” 实战** [code repository](https://github.com/chenjunyi1999/Kaggle-Feedback-Prize)| [然哥还没教会我呢😳](https://github.com/chenjunyi1999/Kaggle-Feedback-Prize)
