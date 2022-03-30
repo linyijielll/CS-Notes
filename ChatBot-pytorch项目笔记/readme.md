@@ -1,4 +1,4 @@
-# ChatBot-Pytorch笔记
+# ChatBot-GPT2笔记
 
 记录一下项目开发中的理解，收获，思考🤔。[项目传送门](https://github.com/chenjunyi1999/ChatBot-Pytorch)
 
