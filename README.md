@@ -1,8 +1,8 @@
 # ML-Tutorial
 ## 实战项目传送门
-基于GPT2的英文聊天机器人**Chatbot-GPT2** [code repository](https://github.com/chenjunyi1999/ChatBot-GPT2) ｜ [learning notes](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/ChatBot-pytorch%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0)
+基于GPT2的英文聊天机器人**Chatbot_GPT2** [code repository](https://github.com/chenjunyi1999/ChatBot-GPT2) ｜ [learning notes](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/ChatBot-pytorch%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0)
 
-基于Transformer的英译中翻译程序**EN2CN-Transformer** [code repository](https://github.com/chenjunyi1999/Translator_transformer) ｜ [learning notes](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/EN2CN%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0)
+基于Transformer的英译中翻译程序**Translator_transformer** [code repository](https://github.com/chenjunyi1999/Translator_transformer) ｜ [learning notes](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/EN2CN%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0)
 
 ## 动手学深度学习Pytorch版本 [查看](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/d2l(Pytorch))
 参考: <br>
