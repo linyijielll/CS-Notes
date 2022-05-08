@@ -4,6 +4,8 @@
 
 基于Transformer的英译中翻译程序**Translator_transformer** [code repository](https://github.com/chenjunyi1999/Translator_transformer) ｜ [learning notes](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/Code_Notes/Translator-transformer)
 
+基于BERT+BiLSTM+CRF的中文医疗命名实体识别**NER_Medical** [code repository](https://github.com/chenjunyi1999/NER_Medical) ｜ [learning notes](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/Code_Notes/NER_Medical%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0)
+
 ## 机器学习原理[查看](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8E%9F%E7%90%86)
 [CS5487笔记](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8E%9F%E7%90%86/CS5487)
  / [shuhuai机器学习系列](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8E%9F%E7%90%86/shuhuai%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97)
