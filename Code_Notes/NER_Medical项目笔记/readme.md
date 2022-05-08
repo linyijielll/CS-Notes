@@ -1,4 +1,4 @@
-### transformer版本问题
+## transformer版本问题
 
 注意transformers在不同版本对bert-base-chinese的返回值的变动, **较新的版本返回一个特殊的字典而不是一个元组**
 
@@ -16,7 +16,7 @@ embeds, _ = self.bert(sentence)
 
 
 
-### NLP模型中LSTM的特殊性（疑惑待解决）
+## NLP模型中LSTM的特殊性（疑惑待解决）
 
 在这个项目中，我采用 BERT+BiLSTM+CRF 的结构，如果forward方式为
 
