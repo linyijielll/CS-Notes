@@ -22,7 +22,7 @@ embeds, _ = self.bert(sentence)
 
 ```python
 with torch.no_grad():
-		embeds, _ = self.bert(sentence, return_dict=False)
+    embeds, _ = self.bert(sentence, return_dict=False)
 out, _ = self.lstm(embeds)
 out = self.dropout(out)
 feats = self.linear(out)
@@ -41,4 +41,4 @@ feats = self.linear(out)
 
 训练损失降低较慢，且预测不正常，几乎全部预测为“Other”
 
-**猜测可能是LSTM的门机制和sigmod函数导致梯度传导错误（正在研究，随时跟新）**
+
