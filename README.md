@@ -15,9 +15,9 @@
 | :----------------------------------------------------------- | :------------------------------------------------ | :-----------------------------------------------: |
 | [CS5487笔记](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8E%9F%E7%90%86/CS5487) | **[进阶]** CityU CS5487 — Machine Learning Principle         |                       None                        |
 | [机器学习白板推导笔记](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8E%9F%E7%90%86/shuhuai%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97) | **[进阶]**  机器学习公式的白板推导                            |    [link](https://space.bilibili.com/97068901)    |
-| [huggingface体验](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/huggingface%E5%85%A5%E9%97%A8) | **[入门]** 非常非常非常简单基础的 ‘ transformers’ 库使用案例 |                       None                        |
+| [huggingface入门](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/huggingface%E5%85%A5%E9%97%A8) | **[入门]** 非常非常非常简单基础的 ‘ transformers’ 库使用案例 |                       None                        |
 | [WangShuseng NLP笔记](https://github.com/chenjunyi1999/ML-Tutorial/blob/main/Wang%20Shusen%20NLP%E6%95%99%E5%AD%A6%EF%BC%88keras%EF%BC%89.pdf) | **[基础]** NLP基础教程                                       | [link](https://book.douban.com/subject/35531447/) |
-| [图画模型笔记](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/%E6%A8%A1%E5%9E%8B%E7%AC%94%E8%AE%B0) | **[基础]** 自己画的一些模型的结构                            |                       None                        |
+| [图解模型笔记](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/%E6%A8%A1%E5%9E%8B%E7%AC%94%E8%AE%B0) | **[基础]** 自己画的一些模型的结构                            |                       None                        |
 
 
 
