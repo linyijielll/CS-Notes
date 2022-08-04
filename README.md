@@ -7,7 +7,7 @@
 | [**《Python机器学习基础教程》**](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/python%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B) | **[好]** 利用sklearn实现机器学习算法，阐述原理分析优缺点。并且讲解了数据处理，调参和模型评估的细节。 | [link](https://book.douban.com/subject/30147778/) |
 | [**《深度学习进阶：自然语言处理》**](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/deep-learning-from-scratch-2) | **[好]** 仅使用Numpy等基础库实现自然语言处理的基础技术，包括包括 word2vec、RNN、LSTM、GRU、seq2seq 和Attention 等。 | [link](https://book.douban.com/subject/35225413/) |
 | [**《动手学深度学习》**](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/d2l(Pytorch)) | **[好]**“让深度学习可平易近人，教会你概念、背景和代码"<br />[d2l中文官网](https://zh-v2.d2l.ai/index.html)/ [b站](https://space.bilibili.com/1567748478) | [link](https://book.douban.com/subject/33450010/) |
-| [《自然语言处理：基于预训练模型的方法》](https://book.douban.com/subject/35531447/) | **[差]** 有这个钱不如吃顿肯德                                | [link](https://book.douban.com/subject/35531447/) |
+| [**《自然语言处理：基于预训练模型的方法》**](https://book.douban.com/subject/35531447/) | **[差]** 有这个钱不如吃顿肯德                                | [link](https://book.douban.com/subject/35531447/) |
 
 
 ## 教程
