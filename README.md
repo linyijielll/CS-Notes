@@ -11,6 +11,9 @@
 
 
 ## 教程
+
+所有的手写pdf笔记建议下载观看，github上显示pdf存在页面顺序混乱。具体见讨论区[https://github.com/orgs/community/discussions/28715](https://github.com/orgs/community/discussions/28715)
+
 | 教程名                                                       | 简介                                              |                     资源链接                      |
 | :----------------------------------------------------------- | :------------------------------------------------ | :-----------------------------------------------: |
 | [CS5487笔记](https://github.com/chenjunyi1999/ML-Tutorial/tree/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8E%9F%E7%90%86/CS5487) | **[进阶]** CityU CS5487 — Machine Learning Principle         |                       None                        |
