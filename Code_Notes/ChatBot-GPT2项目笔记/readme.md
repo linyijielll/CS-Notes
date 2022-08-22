@@ -443,13 +443,14 @@ class CustomDataset(Dataset):
             for h in range(len(hists)):
               	# 如果是 <speaker2>，固定住h，从0开始往h找
                 if hists[h][0] == config['sp2_id']:
-                    for s in range(0, h):
+                    start = max(0, h - config['max_turns'] + 1)
+                    for s in range(start, h):
                         # 对话
                         contexts = hists[s:h + 1]
                         # 选出对话轮数合适的数据 大于2句，小于5句，因为上面循环的设置，会优先5句子
-                        if len(contexts) > config['max_turns']:
-                            num_exceeded = len(contexts) - config['max_turns']
-                            contexts = contexts[num_exceeded:]
+                        #if len(contexts) > config['max_turns']:
+                        #    num_exceeded = len(contexts) - config['max_turns']
+                        #    contexts = contexts[num_exceeded:]
                         if len(contexts) < 2:
                             break
                         # 加上特殊占位符bos和eos
