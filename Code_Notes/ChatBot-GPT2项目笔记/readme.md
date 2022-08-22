@@ -276,7 +276,7 @@ def infer(self):
 
             # 如过对话历史input_hists超过 最大轮次config['max_turns']了，从前面截断
             if len(input_hists) >= config['max_turns']:
-                num_exceeded = len(input_hists) - config['max_turns']
+                num_exceeded = len(input_hists) - config['max_turns']+1
                 input_hists = input_hists[num_exceeded:]
 
             # 把input_hists铺平，前面加上bos_id，后面在加上sp2_id(因为每一次循环经过到这边的时候最后一句话一定是sp1说的)
