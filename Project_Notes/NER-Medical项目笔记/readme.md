@@ -16,7 +16,7 @@ embeds, _ = self.bert(sentence)
 
 
 
-## NLP模型中LSTM的特殊性（疑惑待解决）
+## 一个小疑惑
 
 在这个项目中，我采用 BERT+BiLSTM+CRF 的结构，如果forward方式为
 
