@@ -3,13 +3,14 @@
 
 ## 总目录
 
-[机器学习/NLP](##🤖️机器学习/NLP)
+[机器学习/NLP](#机器学习/NLP)
 
-[数据开发](##数据开发)
+[数据开发](#数据开发)
 
-[项目](##项目)
+[项目](#项目)
 
-[其他](##其他)
+[其他](#其他)
+
 
 ## 机器学习/NLP
 
@@ -32,13 +33,13 @@
 
 基于MySQL 8.0.31
 
-1. [SQL基础入门 — 匹配、连接、增删改查](./Data-Engineering/SQL/SQL基础入门 — 匹配、连接、增删改查.md)
-2. [SQL基础进阶 — 汇总、复杂查询、内置函数](./Data-Engineering/SQL/SQL基础进阶 — 汇总、复杂查询、内置函数.md)
-3. [SQL提高效率 — 视图、存储过程、函数](./Data-Engineering/SQL/SQL提高效率 — 视图、存储过程、函数.md)
-4. [SQL高阶主题 — 触发器、事件、事务、并发](./Data-Engineering/SQL/SQL高阶主题 — 触发器、事件、事务、并发.md)
-5. [SQL深层理解 — 数据类型、设计、索引、保护.md](./Data-Engineering/SQL/SQL深层理解 — 数据类型、设计、索引、保护)
-6. [MySQL8 窗口函数](./Data-Engineering/SQL/MySQL8 窗口函数.md)
-7. [SQL小技巧(持续跟新中...)](./Data-Engineering/SQL/MySQL8 窗口函数.md)
+1. [SQL基础入门 — 匹配、连接、增删改查](./Data-Engineering/SQL/SQL基础入门%20—%20匹配、连接、增删改查.md)
+2. [SQL基础进阶 — 汇总、复杂查询、内置函数](./Data-Engineering/SQL/SQL基础进阶%20—%20汇总、复杂查询、内置函数.md)
+3. [SQL提高效率 — 视图、存储过程、函数](./Data-Engineering/SQL/SQL提高效率%20—%20视图、存储过程、函数.md)
+4. [SQL高阶主题 — 触发器、事件、事务、并发](./Data-Engineering/SQL/SQL高阶主题%20—%20触发器、事件、事务、并发.md)
+5. [SQL深层理解 — 数据类型、设计、索引、保护](./Data-Engineering/SQL/SQL深层理解%20—%20数据类型、设计、索引、保护.md)
+6. [MySQL8 窗口函数](./Data-Engineering/SQL/MySQL8%20窗口函数.md)
+7. [SQL小技巧(持续跟新中...)](./Data-Engineering/SQL/MySQL8%20窗口函数.md)
 
 ### 🔥pySpark
 
@@ -67,3 +68,4 @@
 ## 其他
 
 积累的一些语法技巧（持续更新中）[link](./tricks.md)
+
