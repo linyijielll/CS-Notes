@@ -66,6 +66,7 @@
 基于BERT+BiLSTM+CRF的中文医疗命名实体识别**NER-Medical** [code repository](https://github.com/chenjunyi1999/NER-Medical) ｜ [notes](./My-Project-Notes/NER-Medical)
 
 ## 其他
+[算法](./Algorithm)
 
-积累的一些语法技巧（持续更新中）[link](./tricks.md)
+[积累的一些语法技巧(持续更新中)](./tricks.md)
 
