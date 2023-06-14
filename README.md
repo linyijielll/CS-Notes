@@ -63,7 +63,7 @@
 
 基于Transformer的英译中翻译程序**Translator-Transformer** [code repository](https://github.com/chenjunyi1999/Translator-transformer) ｜ [notes](./My-Project-Notes/Translator-Transformer)
 
-基于BERT+BiLSTM+CRF的中文医疗命名实体识别**NER-Medical** [code repository](https://github.com/chenjunyi1999/NER-Medical) ｜ [notes](./My-Project-Notes/NER-Medical)
+基于BERT+BiLSTM+CRF的中文医疗命名实体识别**Medical-NER** [code repository](https://github.com/chenjunyi1999/Medical-NER) ｜ [notes](./My-Project-Notes/NER-Medical)
 
 ## 其他
 [算法](./Algorithm)
